@@ -10,8 +10,9 @@
 
 - 💬 Ask me about **Python, ML & DL**
 
-- 📫 How to reach me **🔗[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=arko20may@gmail.com.com&su=SUBJECT&body=BODY&tf=1) 🔗[Linkedin](https://www.linkedin.com/in/arko-pravo-pradhan-5ba4b71a4/)** 
-
+- 📫 How to reach me : 
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=arko20may@gmail.com.com&su=SUBJECT&body=BODY&tf=1" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/arko-pravo-pradhan-5ba4b71a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - ⚡ Fun fact: **Oneday the model created by you will replace your place. Welcome to the world of AI 👾🔥**
 
 
