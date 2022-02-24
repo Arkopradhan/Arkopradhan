@@ -12,7 +12,7 @@
 
 - 📫 How to reach me : 
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=arko20may@gmail.com.com&su=SUBJECT&body=BODY&tf=1" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/arko-pravo-pradhan-5ba4b71a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/arkopravo-pradhan-5ba4b71a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 - ⚡ Fun fact: **Oneday the model created by you will replace your place. Welcome to the world of AI 👾🔥**
 
 
@@ -25,7 +25,7 @@
 <h2></h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arko-pravo-pradhan-5ba4b71a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arko-pravo-pradhan-5ba4b71a4/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arkopravo-pradhan-5ba4b71a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arkopravo-pradhan-5ba4b71a4/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/arko.junior.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arko.junior.52" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/neuraltron/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/neuraltron/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/jishu20may" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/jishu20may" height="30" width="40" /></a>
